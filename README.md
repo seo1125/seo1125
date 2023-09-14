@@ -1,5 +1,5 @@
 ### Hi there 👋
-# 안녕하세요 성일정보고등학교 소프트웨어개발과 염현서입니다.
+# YUMHYUNSEO
 <!--
 **seo1125/seo1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
